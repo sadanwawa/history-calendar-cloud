@@ -25,3 +25,10 @@ visitLog：  用户访问记录
 
 
 ## 云函数上传并部署
+
+
+## 补充说明  
+
+1.historyInfo.json中的历史事件配置不全，特别是配图需要使用者自行更新配置；  
+
+2.云端部署完成后，可下载客户端工程文件  [地址](https://github.com/sadanwawa/history-calendar)
